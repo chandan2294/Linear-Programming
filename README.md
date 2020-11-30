@@ -14,4 +14,4 @@ Examples of problems that can be solved by linear programming include:
 
 In this set of notebooks, we explore some linear programming examples, starting with some very basic Mathematical theory behind the technique and moving on to some real world examples.
 
-We will be using python and the PuLP linear programming package to solve these linear programming problems. PuLP largely uses python syntax and comes packaged with the CBC solver; it also integrates nicely with a range of open source and commercial LP solvers.
+We will be using Python and the PuLP linear programming package to solve these linear programming problems. PuLP largely uses python syntax and comes packaged with the CBC solver; it also integrates nicely with a range of open source and commercial LP solvers.
