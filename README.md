@@ -11,7 +11,6 @@ Examples of problems that can be solved by linear programming include:
 - Scheduling - Rota or Factory scheduling to meet production/workload demands
 - Resourcing Problems - How best to allocate resources to maximise profits
 - Blending Problems - Cost effectively blending a mixture of components
-- Sudoku
 
 In this set of notebooks, we explore some linear programming examples, starting with some very basic Mathematical theory behind the technique and moving on to some real world examples.
 
